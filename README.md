@@ -1,2 +1,2 @@
 # Number-Theory
-This repository contains various implementations of number theory
+This repository contains implementations of standard number theory problems. 
