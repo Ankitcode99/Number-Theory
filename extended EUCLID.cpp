@@ -5,7 +5,7 @@ using namespace std;
 int d, x, y;
 void extendedEuclid(int A, int B) {
     if(B == 0) {
-        d = A;
+        d = A;//d is the GCD
         x = 1;
         y = 0;
     }
